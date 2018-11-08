@@ -1,3 +1,4 @@
-## Quantum Framework
-Quantum is a framework for enabled advanced verification, scripting and metadata for a Java application,
-all centered around a unified DSL. Quantum has zero dependencies beyond the Java 11 JDK itself.
+![Alt text](etc//quantum-masthead.png?raw=true "Quantum Core")
+
+Quantum Core enables advanced verification, scripting and configuration for any Java application,
+all centered around a unified DSL. Quantum Core has zero dependencies beyond the Java 11 JDK itself.
